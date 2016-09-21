@@ -569,6 +569,7 @@ a.skip {
 }
 
 img.grails-logo {
-    height:340px;
+    /*height:340px;*/
+    width: 100%;
     margin-top:-10px;
 }
